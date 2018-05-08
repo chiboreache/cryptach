@@ -82,8 +82,7 @@
 - **Serpent** — 32 раунда — адский пездец для йоба пека
 - **MARS** — просто блядь безжизненная планета
 
-[competitions](https://competitions.cr.yp.to/aes.html)
-[competitions wiki](http://en.citizendium.org/wiki/AES_competition#Twofish)
+[competitions](https://competitions.cr.yp.to/aes.html) | [competitions wiki](http://en.citizendium.org/wiki/AES_competition#Twofish)
 
 
 
