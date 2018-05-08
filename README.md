@@ -54,7 +54,7 @@
 >- Требует рута и включения в автозагрузку `modprobe ecryptfs` [*xyne.archlinux.ca*](https://xyne.archlinux.ca/projects/ecryptfs-simple/)
 
 >Mike Halcrow adapted eCryptfs from Erez Zadok's Cryptfs and got it merged into the Linux kernel. He also wrote the initial versions of ecryptfs-utils. He did this while at the IBM Linux Technology Center, where he worked alongside Dustin Kirkland and Tyler Hicks. After finishing his CS Master's at UT Austin, he joined the BitLocker team at Microsoft, where he delivered features for Windows 7 and Windows 8. He now works in the Cloud Security team at Google.
->- *ну тоесть люди серьезные, в три лица энтерпрайз пилят*[*about.html*](http://ecryptfs.org/about.html)
+>- ну тоесть люди серьезные, в три лица энтерпрайз пилят [*about.html*](http://ecryptfs.org/about.html)
 
 [**gocryptfs**](https://github.com/rfjakob/gocryptfs) — мерзкий го, свежий гит, выбор виндовоза
 
