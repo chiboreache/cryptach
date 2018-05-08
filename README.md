@@ -54,11 +54,11 @@
 >- Требует рута и включения в автозагрузку `modprobe ecryptfs` [*xyne.archlinux.ca*](https://xyne.archlinux.ca/projects/ecryptfs-simple/)
 
 >Mike Halcrow adapted eCryptfs from Erez Zadok's Cryptfs and got it merged into the Linux kernel. He also wrote the initial versions of ecryptfs-utils. He did this while at the IBM Linux Technology Center, where he worked alongside Dustin Kirkland and Tyler Hicks. After finishing his CS Master's at UT Austin, he joined the BitLocker team at Microsoft, where he delivered features for Windows 7 and Windows 8. He now works in the Cloud Security team at Google.
->- *ну тоесть люди серьезные, в три лица энтерпрайз пилят* [*about.html*](http://ecryptfs.org/about.html)
+>- *ну тоесть люди серьезные, в три лица энтерпрайз пилят*[*about.html*](http://ecryptfs.org/about.html)
 
 [**gocryptfs**](https://github.com/rfjakob/gocryptfs) — мерзкий го, свежий гит, выбор виндовоза
 
-[**securefs**](https://github.com/netheril96/securefs) — netheril96 гитнейм и MIT'овская лицка, говорят нам о том что это поделка школьника %%*инбф* а чего добился ты в свои 22 года%%
+[**securefs**](https://github.com/netheril96/securefs) — netheril96 гитнейм и MIT'овская лицка, говорят нам о том что это поделка школьника %%*инбф* а чего  тыдобился ты в свои 22 года%%
 
 
 >*подробнее на* [*nuetzlich.net/gocryptfs/comparison*](https://nuetzlich.net/gocryptfs/comparison/)
@@ -78,9 +78,9 @@
 
 достойные альтернативы:
 
-**Twofish** — 8 раундов — для мобилок
-**Serpent** — 32 раунда — адский пездец для йоба пека
-**MARS** — просто блядь безжизненная планета
+- **Twofish** — 8 раундов — для мобилок
+- **Serpent** — 32 раунда — адский пездец для йоба пека
+- **MARS** — просто блядь безжизненная планета
 
 [competitions](https://competitions.cr.yp.to/aes.html)
 [competitions wiki](http://en.citizendium.org/wiki/AES_competition#Twofish)
